@@ -1,3 +1,7 @@
 node_modules
 .vscode-test/
 *.vsix
+
+# lock
+yarn.lock
+package-lock.json
